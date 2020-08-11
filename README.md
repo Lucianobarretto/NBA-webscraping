@@ -1,7 +1,7 @@
 <h1 align="center">Webscraping - NBA</h1>
 
 <p align="center">
-  <kbd><img align="center" src="webscraping.gif" alt="Gif Webscraping" width="450"/></kbd>
+  <kbd><img align="center" src="webscraping_python.gif" alt="Gif Webscraping" width="450"/></kbd>
 </p>
 <p align="center">  
   <a href="https://www.linkedin.com/in/lucianobalmeida/">
